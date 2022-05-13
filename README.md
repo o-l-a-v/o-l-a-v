@@ -2,7 +2,12 @@
 
 I like PowerShell.
 
-Some of my favorite PowerShell learn and research projects I've been working on privatly are:
+I use it as much as possible in my work, but I also use it for some personal projects, like:
 
-* [Using Winget from Intune](https://github.com/o-l-a-v/winget-intune-win32).
-* [A script for keeping PowerShell modules from PowerShellGallery up to date](https://github.com/o-l-a-v/PowerShell-Projects/tree/master/PowerShellModulesUpdater).
+#### [winget-intune-win32](https://github.com/o-l-a-v/winget-intune-win32)
+
+* Research into how to use Winget with Intune.
+
+#### [PowerShellModulesUpdater](https://github.com/o-l-a-v/PowerShell-Projects/tree/master/PowerShellModulesUpdater).
+
+* A script for keeping PowerShell modules from PowerShellGallery up to date.
