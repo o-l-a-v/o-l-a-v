@@ -1,6 +1,8 @@
-# Hi
+# Hi <img src="./img/pwsh.svg" height="24"/>
 
-<p style="font-size:18px">I like PowerShell <img src="./img/pwsh.svg" height="18"/>. I use it a lot for both work and personal projects.<br><br>Some personal projects:</p>
+I like PowerShell. I use it a lot for both work and personal projects.
+
+Some personal projects:
 
 |Project |Description
 |:--|:--
