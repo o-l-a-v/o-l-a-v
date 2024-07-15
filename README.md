@@ -1,5 +1,7 @@
 # Hi <img src="./img/pwsh.svg" height="24"/>
 
+> I'm `olavrb` almost everywhere but GitHub.
+
 I like PowerShell. I use it a lot for both work and personal exploration.
 
 Some personal projects:
